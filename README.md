@@ -1,7 +1,7 @@
 # 作品名
 
 <a href="./webgl/" target="_blank">
-<img src='./images/Desert.jpg' height='100px' alt='タイトル画面'><br/>
+<img src='./images/Desert.jpg' height='100px' alt='タイトル画面'>
 <img src='./images/Chrysanthemum.jpg' height='100px' alt='ゲーム画面'><br/>
 ゲームで遊ぶ
 </a>
