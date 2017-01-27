@@ -1,3 +1,7 @@
+---
+title: 作品名
+---
+
 # 作品名
 
 <a href="./webgl/" target="_blank">
