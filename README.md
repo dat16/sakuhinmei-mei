@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 作品名
 ---
 
